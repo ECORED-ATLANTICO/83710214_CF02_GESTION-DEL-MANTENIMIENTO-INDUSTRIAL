@@ -113,7 +113,8 @@ export default {
   complementario: [
     {
       tema: 'Órdenes de trabajo',
-      referencia: 'Ecosistema recursosSENA [Video]. YouTube',
+      referencia:
+        'Soluciones básicas para negocios y empresas. (2023, febrero 8). APPSHEET Control de mantenimiento, Generación de órdenes de trabajo Capítulo 1 [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=t7PFDuJK4oo',
     },
